@@ -18,9 +18,9 @@ The official repository of the AAAI2023 paper [StyleTalk: One-shot Talking Head 
   </p>
 
   The proposed **StyleTalk** can generate talking head videos with speaking styles specified by arbitrary style reference videos.
-  
+
 # News
-* Xxx.xx, 202x The code is available.
+* April 14th, 2023. The code is available.
 
 # Get Started
 
@@ -43,7 +43,7 @@ Our methods takes 3DMM parameters(\*.mat) and phoneme labels(\*_seq.json) as inp
 
 
 ## Inference
-Download checkpoints for [StyleTalk](www.baidu.com) (CHANGE URL) and [Renderer](www.baidu.com) (CHANGE URL) and put them into `./checkpoints`.
+Download checkpoints for [StyleTalk](https://drive.google.com/file/d/1z54FymEiyPQ0mPGrVePt8GMtDe-E2RmN/view?usp=share_link)  and [Renderer](https://drive.google.com/file/d/1wFAtFQjybKI3hwRWvtcBDl4tpZzlDkja/view?usp=share_link) and put them into `./checkpoints`.
 
 Run the demo:
 
