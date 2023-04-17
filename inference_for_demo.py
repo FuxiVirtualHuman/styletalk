@@ -183,5 +183,5 @@ if __name__ == "__main__":
             exp_param_path,
             args.wav_path,
             args.output_path,
-            split_size=64,
+            split_size=4,
         )
